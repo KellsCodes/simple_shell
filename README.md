@@ -1,0 +1,1 @@
+creating simple shell that when you excutes works like a shell
